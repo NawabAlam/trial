@@ -199,5 +199,9 @@ hr {
 .divtop {
   padding-top: 0;
 }
+  
+  .h2 {
+  font-size: 20px;
+}
 
 }
