@@ -202,5 +202,17 @@ hr {
   .h2 {
        font-size: 0.75rem;
   }
+  
+    .img1{
+     display: none;
+   }
+
+   .img2{
+     display: block;
+   }
+
+   .img2 {
+     width: 100%;
+   }
 
 }
