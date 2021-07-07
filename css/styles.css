@@ -36,7 +36,6 @@ a:hover {
   color: black;
 }
 
-
 p {
   line-height: 2;
 }
@@ -88,20 +87,9 @@ hr {
   top: 0;
 }
 
-/*@media (max-width: 1028px) {
-  .top-bird {
-    position: absolute;
-    right: 18.%;
-    top: 0;
-  }
-
-  .bottom-bird {
-    position: absolute;
-    left: 56.1875%;
-    right: 18.75%;
-  }
-
-}*/
+.img2 {
+   display: none;
+}
 
 .bottom-bird {
   position: absolute;
@@ -177,13 +165,7 @@ hr {
   text-decoration: none;
 }
 
-
-
-
 @media (max-width: 1024px) {
-
-
-
   .top-bird {
     position: absolute;
     right: 0;
@@ -196,14 +178,15 @@ hr {
     top: 0;
   }
 
-.divtop {
-  padding-top: 0;
-}
-  .h2 {
-       font-size: 0.75rem;
+  .divtop {
+    padding-top: 0;
   }
-  
-    .img1{
+
+  .h2 {
+    font-size: 0.75rem;
+  }
+
+  .img1{
      display: none;
    }
 
